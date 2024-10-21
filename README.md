@@ -24,6 +24,4 @@ This project is a desktop application developed in C# that displays real-time da
 - Historical data visualization and trend analysis.
 - Alerts and notifications for abnormal sensor values.
 
----
 
-Feel free to modify the description based on any additional features or goals of the project.
